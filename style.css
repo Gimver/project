@@ -1,0 +1,43 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+nav a{
+	font-weight: bold;
+	list-style: none;
+	color: skyblue;
+	font-family: cursive;
+}
+.jumbotron{
+	font-family: cursive;
+	color: black;
+	text-align: center;
+	background-color: transparent;
+}
+.jumbotron .display-4{
+	color: skyblue;
+	font-weight: bold;
+}
+hr{
+	width: 600px;
+	background-color: beige;
+	height: 2px;
+	margin-right: auto;
+	margin-left: auto;
+}
+.carousel-item{
+	margin-top: -22px;
+}
+.carousel-item .dua{
+	margin-top: -250px;
+}
+div div h1{
+	font-family: cursive;
+}
+div div h2{
+	font-family: cursive;
+
+}
+div div p{
+	font-size: 30px;
+}
